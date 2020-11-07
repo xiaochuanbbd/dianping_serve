@@ -1,0 +1,66 @@
+{
+  "code": 200,
+  "msg": {
+    "userCard": {
+      "logoUrl":"http://www.dpfile.com/app/pc-common/i/logo_user@2x.png",
+      "userId": "2175288007",
+      "userNickName": "小川",
+      "userFace": "https://p0.meituan.net/userheadpicbackend/9f4a856a840e7ccbbb6d0fca05a499817900.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+      "userPower": 10,
+      "manaScore": null,
+      "reviewCount": 0,
+      "noteCount": 0,
+      "fansCount": 0,
+      "vipIconLevel": 0,
+      "vipIcon": "",
+      "city":"长沙",
+      "category":"美食",
+      "attention": "1000",
+      "fans": "98765263",
+      "star": "9999767",
+      "time": "2018-10-01",
+      "introduction": "欺负我胖虎？？？？",
+      "evaluation": "行运打边炉",
+      "favoriteMerchant":[
+          {
+              "shopName":"肆姐粉面馆",
+              "city":"长沙",
+              "address":"坡子街128号星月楼1层",
+              "phone":"88675688",
+              "time":"2020-01-28 02:13",
+              "id":"001"
+          },
+          {
+            "shopName":"夏记粉店",
+            "city":"长沙",
+            "address":"观音井巷4号（近步行街中心广场）",
+            "phone":"",
+            "time":"2020-01-28 02:12",
+            "id":"002"
+        },
+        {
+          "shopName":"杨裕兴",
+          "city":"长沙",
+          "address":"长沙火车站右侧150米",
+          "phone":"13576862768",
+          "time":"2020-01-28 08:12",
+          "id":"003"
+      }
+      ],
+      "photo": [
+        {
+          "picUrlId": "111",
+          "imageUrl": "http://p0.meituan.net/deal/7a15b1294c84dd73e8e37c147ff86f9892104.jpg%40160w_100h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        },
+        {
+          "picUrlId": "222",
+          "imageUrl": "http://p0.meituan.net/deal/180687f3422eabe859960d9648ac21ee62352.jpg%40160w_100h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+        },
+        {
+          "picUrlId": "333",
+          "imageUrl": "https://img.meituan.net/msmerchant/a65b52a5179d062a0576e7561c324a17261888.jpg%40160w_120h_1e_1c_1l%7Cwatermark%3D0"
+        }
+      ]
+    }
+  }
+}
