@@ -1,0 +1,59 @@
+{
+  "studyLists1":[
+    
+    {
+        "categoryId":"1",
+        "shopName": "手把手汽车陪练",
+        "evaluate": "4844条评价",
+        "snack": "驾驶陪练",
+        "location": "四季青",
+        "price": "1339",
+        "url": "https://p1.meituan.net/dpmerchantpic/49253113d17c8c884b5850e196fef6f7761587.jpg%40120w_90h_1e_1c_1l_80q%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+    }, 
+    {
+        "categoryId": "2",
+        "shopName": "雷厉风行汽车陪练",
+        "evaluate": "1829条评价",
+        "snack": "驾驶陪练",
+        "location": "四季青",
+        "price": "1202",
+        "url": "https://p1.meituan.net/dpmerchantpic/fecef1450ee2084d7bb511cc1df6936e440192.jpg%40120w_90h_1e_1c_1l_80q%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"  
+    },
+    {
+        "categoryId": "3",
+        "shopName": "美吉姆早教",
+        "evaluate": "691条评价",
+        "snack": "感觉统合",
+        "location": "望京",
+        "price": "19138",
+        "url": "https://p0.meituan.net/dpmerchantpic/1ed248eb049fe7693f161c89838eec50373764.jpg%40120w_90h_1e_1c_1l_80q%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"  
+    },
+    {
+      "categoryId":"4",
+      "shopName": "老北木吉她教室",
+      "evaluate": "992条评价",
+      "snack": "音乐",
+      "location": "广外大街",
+      "price": "5153",
+      "url": "https://p1.meituan.net/dpmerchantpic/cd111a5a8358bc19b8888bcf2a3aef921512933.jpg%40120w_90h_1e_1c_1l_80q%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+    }, 
+    {
+      "categoryId": "5",
+      "shopName": "衣锦化妆色彩风格礼仪形象学院",
+      "evaluate": "420条评价",
+      "snack": "美妆从业",
+      "location": "大望路",
+      "price": "931",
+      "url": "https://p0.meituan.net/dpmerchantpic/f6f97c0f9eb2fdd60b9751c528ced73f443629.jpg%40120w_90h_1e_1c_1l_80q%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"  
+    },
+    {
+      "categoryId": "6",
+      "shopName": "奇梅花艺插花培训学校",
+      "evaluate": "899条评价",
+      "snack": "花艺",
+      "location": "劲松/潘家园",
+      "price": "2931",
+      "url": "https://p0.meituan.net/dpmerchantpic/6bb915a1f52f10fdeab67d32b7270bf4899451.jpg%40120w_90h_1e_1c_1l_80q%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"  
+    }   
+  ]
+}

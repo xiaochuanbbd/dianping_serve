@@ -1,0 +1,75 @@
+{
+  "foodLists1":[
+    
+    {
+        "title": "美食",
+        "cateNav":["小吃快餐","粉面馆","水果生鲜"],
+        "all": "全部",
+        "categoryId":"1",
+        "shopName": "福满楼",
+        "evaluate": "22129条评价",
+        "snack": "老北京火锅",
+        "location": "朝外大街/世贸天阶",
+        "price": "135",
+        "url": "https://img.meituan.net/msmerchant/281cf919289d744c934df67301f7f321114380.jpg%40340w_192h_1e_1l%7Cwatermark%3D0"
+    }, 
+    {
+        "title": ["休闲娱乐","运动健身","按摩/足疗","团建拓展"],
+        "all": "全部",
+        "categoryId": "2",
+        "shopName": "四季民福烤鸭店",
+        "evaluate": "24579条评价",
+        "snack": "烤鸭",
+        "location": "王府井/东单",
+        "price": "161",
+        "url": "http://p1.meituan.net/msmerchant/2446456843aa8e5ba129227dbdeda858586970.jpg%40340w_192h_1e_1l%7Cwatermark%3D0"  
+    },
+    {
+        "title": ["休闲娱乐","运动健身","按摩/足疗","团建拓展"],
+        "all": "全部",
+        "categoryId": "3",
+        "shopName": "聚宝源",
+        "evaluate": "31125条评价",
+        "snack": "老北京火锅",
+        "location": "牛街",
+        "price": "116",
+        "url": "http://p0.meituan.net/biztone/265139_1603873432537.jpeg%40340w_192h_1e_1l%7Cwatermark%3D0"  
+    }    
+  ],
+  "foodLists2":[
+    {
+      "title": "美食",
+      "cateNav":["小吃快餐","粉面馆","水果生鲜"],
+      "all": "全部",
+      "categoryId":"4",
+      "shopName": "牛街清真满恒記",
+      "evaluate": "31125条评价",
+      "snack": "老北京火锅",
+      "location": "阜成门",
+      "price": "108",
+      "url": "https://img.meituan.net/msmerchant/4bc106212ffa9231e2dc21d9b155407e1928254.jpg%40340w_192h_1e_1l%7Cwatermark%3D0"
+    }, 
+    {
+      "title": ["休闲娱乐","运动健身","按摩/足疗","团建拓展"],
+      "all": "全部",
+      "categoryId": "5",
+      "shopName": "牛排家",
+      "evaluate": "14086条评价",
+      "snack": "牛排",
+      "location": "三里屯/工体",
+      "price": "366",
+      "url": "https://img.meituan.net/msmerchant/68f30c1271e5db26564abef8d23022e4242425.jpg%40340w_192h_1e_1l%7Cwatermark%3D0"  
+    },
+    {
+      "title": ["休闲娱乐","运动健身","按摩/足疗","团建拓展"],
+      "all": "全部",
+      "categoryId": "6",
+      "shopName": "聚第六季自助餐厅宝源",
+      "evaluate": "16539条评价",
+      "snack": "自助餐",
+      "location": "远大路",
+      "price": "116",
+      "url": "https://img.meituan.net/msmerchant/30ff63f9ac600302b5c20fbc682047bf4836154.jpg%40340w_192h_1e_1l%7Cwatermark%3D0"  
+    }
+  ]
+}

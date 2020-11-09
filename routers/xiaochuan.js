@@ -62,5 +62,38 @@ XiaoChuanRouter.get('/readmessage', (request, response) => {
 })
 
 
+//写入评论
+XiaoChuanRouter.post('/uploadcomment',(req,res)=>{
+  let arrJSON = fs.readFileSync(__dirname + "/datas/writeComment.json")
+  let arr = JSON.parse(arrJSON.toString()) || []
+  // console.log(arr)
+  let userInfo = req.body
+  arr.unshift(userInfo)
+  let resultObj = JSON.stringify(arr)
+  // console.log(resultObj);
+  fs.writeFile(__dirname + "/datas/writeComment.json", resultObj, (err) => {
+    if (err) {
+      res.send({
+        code:502,
+        msg:'写入失败'
+      });
+      throw err;
+    } else {
+      res.send({
+        code:200,
+        msg:'写入成功'
+      })
+    }
+  })
+  // res.send('写入留言成功')
+  
+})
+
+//读取评论
+const writeComment = require('./datas/writeComment.json')
+XiaoChuanRouter.get('/readComment', (request, response) => {
+  response.send(writeComment)
+})
+
 
 module.exports = XiaoChuanRouter

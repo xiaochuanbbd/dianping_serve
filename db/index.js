@@ -5,7 +5,7 @@
 const mongoose = require('mongoose')
 const PORT = 27017
 const URL = 'localhost'
-const DB_NAME = 'education'
+const DB_NAME = 'rating_dbs'
 
 //使用mongoose连接数据库
 mongoose.connect(`mongodb://${URL}:${PORT}/${DB_NAME}`,{

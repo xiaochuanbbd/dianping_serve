@@ -1,0 +1,1339 @@
+{
+  "typeList": [
+      {
+          "categoryChild": [
+              {
+                  "categoryChild": [
+                      {
+                          "categoryName": "火锅",
+                          "categoryId": "1"
+                      },
+                      {
+                          "categoryName": "本帮江浙菜",
+                          "categoryId": "2"
+                      },
+                      {
+                          "categoryName": "日本菜",
+                          "categoryId": "3"
+                      },
+                      {
+                          "categoryName": "面包甜点",
+                          "categoryId": "4"
+                      },
+                      {
+                          "categoryName": "咖啡厅",
+                          "categoryId": "5"
+                      },
+                      {
+                          "categoryName": "自助餐",
+                          "categoryId": "6"
+                      },
+                      {
+                          "categoryName": "小吃快餐",
+                          "categoryId": "7"
+                      },
+                      {
+                          "categoryName": "西餐",
+                          "categoryId": "8"
+                      },
+                      {
+                          "categoryName": "韩国料理",
+                          "categoryId": "9"
+                      },
+                      {
+                          "categoryName": "粤菜",
+                          "categoryId": "10"
+                      },
+                      {
+                          "categoryName": "烧烤",
+                          "categoryId": "11"
+                      },
+                      {
+                          "categoryName": "东南亚菜",
+                          "categoryId": "12"
+                      },
+                      {
+                          "categoryName": "川菜",
+                          "categoryId": "13"
+                      },
+                      {
+                          "categoryName": "素材",
+                          "categoryId": "14"
+                      },
+                      {
+                          "categoryName": "东北菜",
+                          "categoryId": "15"
+                      },
+                      {
+                          "categoryName": "湘菜",
+                          "categoryId": "16"
+                      },
+                      {
+                        "categoryName": "云南菜",
+                        "categoryId": "17"
+                      },
+                      {
+                          "categoryName": "新疆菜",
+                          "categoryId": "18"
+                      },
+                      {
+                          "categoryName": "海鲜",
+                          "categoryId": "19"
+                      },
+                      {
+                          "categoryName": "西北菜",
+                          "categoryId": "20"
+                      },
+                      {
+                          "categoryName": "蟹宴",
+                          "categoryId": "21"
+                      },
+                      {
+                          "categoryName": "台湾菜",
+                          "categoryId": "22"
+                      },
+                      {
+                          "categoryName": "贵州菜",
+                          "categoryId": "23"
+                      },
+                      {
+                          "categoryName": "面馆",
+                          "categoryId": "24"
+                      },
+                      {
+                          "categoryName": "小龙虾",
+                          "categoryId": "25"
+                      },
+                      {
+                          "categoryName": "江西菜",
+                          "categoryId": "26"
+                      },
+                      {
+                          "categoryName": "家常菜",
+                          "categoryId": "27"
+                      },
+                      {
+                          "categoryName": "其他",
+                          "categoryId": "28"
+                      }          
+                  ],
+                  "categoryName": "菜系",
+                  "categoryMore": "更多",
+                  "symbol": ">",
+                  "categoryId": "1"
+              },
+              {
+                "categoryChild": [
+                    {
+                        "categoryName": "刺身",
+                        "categoryId": "29"
+                    },
+                    {
+                        "categoryName": "红烧鱼",
+                        "categoryId": "30"
+                    },
+                    {
+                        "categoryName": "牛排",
+                        "categoryId": "31"
+                    },
+                    {
+                        "categoryName": "烤鱼",
+                        "categoryId": "32"
+                    },
+                    {
+                        "categoryName": "三文鱼",
+                        "categoryId": "33"
+                    },
+                    {
+                        "categoryName": "意大利面",
+                        "categoryId": "34"
+                    }                       
+                ],
+                "categoryName": "热门推荐",
+                "categoryId": "2"
+              }            
+          ],
+          "hot":["火锅","面包甜点"],
+          "categoryName": "美食",
+          "categoryId": "1"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "足疗按摩",
+                        "categoryId": "35"
+                    },
+                    {
+                      "categoryName": "洗浴/汗蒸",
+                      "categoryId": "36"
+                    }                                
+                ],
+                "categoryName": "足疗洗浴",
+                "categoryId": "3"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "KTV",
+                      "categoryId": "37"
+                  },
+                  {
+                      "categoryName": "酒吧",
+                      "categoryId": "38"
+                  },
+                  {
+                      "categoryName": "密室逃脱",
+                      "categoryId": "39"
+                  },
+                  {
+                      "categoryName": "轰趴馆",
+                      "categoryId": "40"
+                  },
+                  {
+                      "categoryName": "茶馆",
+                      "categoryId": "41"
+                  },
+                  {
+                      "categoryName": "私人影院",
+                      "categoryId": "42"
+                  },
+                  {
+                      "categoryName": "网吧网咖",
+                      "categoryId": "43"
+                  },
+                  {
+                      "categoryName": "DIY手工坊",
+                      "categoryId": "44"
+                  },
+                  {
+                      "categoryName": "采摘/农家乐",
+                      "categoryId": "45"
+                  },
+                  {
+                      "categoryName": "文化艺术",
+                      "categoryId": "46"
+                  },
+                  {
+                      "categoryName": "游乐游艺",
+                      "categoryId": "47"
+                  },
+                  {
+                      "categoryName": "VR",
+                      "categoryId": "48"
+                  },
+                  {
+                      "categoryName": "桌游",
+                      "categoryId": "49"
+                  },
+                  {
+                      "categoryName": "团建拓展",
+                      "categoryId": "50"
+                  },
+                  {
+                      "categoryName": "棋牌室",
+                      "categoryId": "51"
+                  },
+                  {
+                      "categoryName": "桌球馆",
+                      "categoryId": "52"
+                  }                        
+              ],
+              "categoryName": "玩乐",
+              "categoryId": "4"
+            } 
+        ],
+        "hot":["足疗","KTV"],
+        "categoryName": "休闲娱乐",
+        "categoryId": "2"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "婚纱摄影",
+                        "categoryId": "53"
+                    },
+                    {
+                        "categoryName": "旅拍",
+                        "categoryId": "54"
+                    },
+                    {
+                        "categoryName": "婚宴",
+                        "categoryId": "55"
+                    },
+                    {
+                        "categoryName": "婚礼策划",
+                        "categoryId": "56"
+                    },
+                    {
+                        "categoryName": "婚纱礼服",
+                        "categoryId": "57"
+                    },
+                    {
+                        "categoryName": "西服定制",
+                        "categoryId": "58"
+                    },
+                    {
+                      "categoryName": "婚戒首饰",
+                      "categoryId": "59"
+                    },
+                    {
+                        "categoryName": "彩妆造型",
+                        "categoryId": "60"
+                    },
+                    {
+                        "categoryName": "司仪造型",
+                        "categoryId": "61"
+                    },
+                    {
+                        "categoryName": "婚礼跟拍",
+                        "categoryId": "62"
+                    },
+                    {
+                        "categoryName": "婚车租赁",
+                        "categoryId": "63"
+                    },
+                    {
+                        "categoryName": "婚礼小商品",
+                        "categoryId": "64"
+                    },
+                      {
+                        "categoryName": "个性写真",
+                        "categoryId": "65"
+                    },
+                    {
+                        "categoryName": "更多婚礼服务",
+                        "categoryId": "66"
+                    },
+                    {
+                        "categoryName": "婚房装修",
+                        "categoryId": "67"
+                    }                         
+                ],
+                "categoryName": "结婚",
+                "categoryMore": "更多",
+                "symbol": ">",
+                "categoryId": "5"
+            }      
+        ],
+        "hot":["婚纱摄影","婚礼策划"],
+        "categoryName": "结婚",
+        "categoryId": "3"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "电影院",
+                        "categoryId": "68"
+                    }                             
+                ],
+                "categoryName": "电影",
+                "categoryId": 6
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "演出场馆",
+                      "categoryId": "69"
+                  },
+                  {
+                      "categoryName": "剧院/影院",
+                      "categoryId": "70"
+                  },
+                  {
+                      "categoryName": "音乐厅/礼堂",
+                      "categoryId": "71"
+                  },
+                  {
+                      "categoryName": "艺术中心/文化中心",
+                      "categoryId": "72"
+                  },
+                  {
+                      "categoryName": "热门演出",
+                      "categoryId": "73"
+                  },
+                  {
+                      "categoryName": "赛事展览",
+                      "categoryId": "74"
+                  },
+                  {
+                      "categoryName": "其他电影演出，电视演出",
+                      "categoryId": "75"
+                  }                                              
+              ],
+              "categoryName": "演出赛事",
+              "categoryId": "7"
+            } 
+        ],
+        "hot":["电影院"],
+        "categoryName": "电影演出赛事",
+        "categoryId": "4"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "美发",
+                        "categoryId": "76"
+                    },
+                    {
+                        "categoryName": "美甲美睫",
+                        "categoryId": "77"
+                    },
+                    {
+                        "categoryName": "美容/SPA",
+                        "categoryId": "78"
+                    },
+                    {
+                        "categoryName": "养发",
+                        "categoryId": "79"
+                    },
+                    {
+                        "categoryName": "瘦身纤体",
+                        "categoryId": "80"
+                    },
+                    {
+                        "categoryName": "瑜伽",
+                        "categoryId": "81"
+                    },
+                    {
+                        "categoryName": "舞蹈",
+                        "categoryId": "82"
+                    },
+                    {
+                        "categoryName": "韩式定妆",
+                        "categoryId": "83"
+                    },
+                    {
+                        "categoryName": "祛痘",
+                        "categoryId": "84"
+                    },
+                    {
+                        "categoryName": "纹身",
+                        "categoryId": "85"
+                    },
+                    {
+                        "categoryName": "化妆品",
+                        "categoryId": "86"
+                    },
+                    {
+                        "categoryName": "产后塑形",
+                        "categoryId": "87"
+                    }                                                                             
+                ],
+                "categoryName": "丽人",
+                "categoryMore": "更多",
+                "symbol": ">",
+                "categoryId": "8"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "水光补水",
+                      "categoryId": "88"
+                  },
+                  {
+                      "categoryName": "瘦脸",
+                      "categoryId": "89"
+                  },
+                  {
+                      "categoryName": "抗衰老",
+                      "categoryId": "90"
+                  },
+                  {
+                      "categoryName": "双眼皮",
+                      "categoryId": "91"
+                  },
+                  {
+                      "categoryName": "玻尿酸",
+                      "categoryId": "92"
+                  },
+                  {
+                      "categoryName": "美白嫩肤",
+                      "categoryId": "93"
+                  },
+                  {
+                      "categoryName": "除皱瘦脸",
+                      "categoryId": "94"
+                  },
+                  {
+                      "categoryName": "白瓷娃娃",
+                      "categoryId": "85"
+                  },
+                  {
+                      "categoryName": "隆鼻",
+                      "categoryId": "96"
+                  },
+                  {
+                      "categoryName": "超声刀",
+                      "categoryId": "97"
+                  },
+                  {
+                      "categoryName": "冷冻溶脂",
+                      "categoryId": "98"
+                  },
+                  {
+                      "categoryName": "自体脂肪填充",
+                      "categoryId": "99"
+                  },
+                  {
+                      "categoryName": "激光溶脂",
+                      "categoryId": "100"
+                  },
+                  {
+                      "categoryName": "黑脸娃娃",
+                      "categoryId": "101"
+                  },
+                  {
+                      "categoryName": "热玛吉",
+                      "categoryId": "102"
+                  },
+                  {
+                      "categoryName": "开眼角",
+                      "categoryId": "103"
+                  }                                    
+              ],
+              "categoryName": "医学美容",
+              "categoryMore": "更多",
+              "symbol": ">",
+              "categoryId": "9"
+            }            
+        ],
+        "hot":["美发","医学美容"],
+        "categoryName": "丽人",
+        "categoryId": "5"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "五星级/豪华型",
+                        "categoryId": "104"
+                    },
+                    {
+                      "categoryName": "四星级/高档型",
+                      "categoryId": "105"
+                    }                                
+                ],
+                "categoryName": "高端酒店",
+                "categoryMore": "更多",
+                "symbol": ">",
+                "categoryId": "10"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "三星级/舒适型",
+                      "categoryId": "106"
+                  },
+                  {
+                    "categoryName": "经济连锁",
+                    "categoryId": "107"
+                  }                                
+              ],
+              "categoryName": "性价比",
+              "categoryMore": "更多",
+              "symbol": ">",
+              "categoryId": "11"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "情侣酒店",
+                      "categoryId": "108"
+                  },
+                  {
+                    "categoryName": "青年旅社",
+                    "categoryId": "109"
+                  },
+                  {
+                    "categoryName": "客栈",
+                    "categoryId": "110"
+                  }                                
+              ],
+              "categoryName": "特色酒店",
+              "categoryMore": "更多",
+              "symbol": ">",
+              "categoryId": "12"
+            }               
+        ],
+        "hot":["五星/豪华","经济连锁"],
+        "categoryName": "酒店",
+        "categoryId": "6"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "儿童摄影",
+                        "categoryId": "111"
+                    },
+                    {
+                        "categoryName": "孕妇写真",
+                        "categoryId": "112"
+                    },
+                    {
+                        "categoryName": "满月照",
+                        "categoryId": "113"
+                    },
+                    {
+                        "categoryName": "白天照",
+                        "categoryId": "114"
+                    },
+                    {
+                        "categoryName": "上门拍",
+                        "categoryId": "115"
+                    },
+                    {
+                        "categoryName": "全家福",
+                        "categoryId": "116"
+                    }                                 
+                ],
+                "categoryName": "亲子摄影",
+                "categoryMore": "更多",
+                "symbol": ">",
+                "categoryId": "13"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "儿童乐园",
+                      "categoryId": "117"
+                  },
+                  {
+                      "categoryName": "婴儿游泳",
+                      "categoryId": "118"
+                  },
+                  {
+                      "categoryName": "亲子活动",
+                      "categoryId": "119"
+                  },
+                  {
+                      "categoryName": "亲子会所",
+                      "categoryId": "120"
+                  },
+                  {
+                      "categoryName": "儿童运动馆",
+                      "categoryId": "121"
+                  }                                 
+              ],
+              "categoryName": "亲子游乐",
+              "categoryMore": "更多",
+              "symbol": ">",
+              "categoryId": "14"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "早教中心",
+                      "categoryId": "122"
+                  },
+                  {
+                      "categoryName": "STEM",
+                      "categoryId": "123"
+                  },
+                  {
+                      "categoryName": "幼儿园",
+                      "categoryId": "124"
+                  },
+                  {
+                      "categoryName": "托班/托儿所",
+                      "categoryId": "125"
+                  }                                                
+              ],
+              "categoryName": "幼儿教育",
+              "categoryMore": "更多",
+              "symbol": ">",
+              "categoryId": "15"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "月子会所",
+                      "categoryId": "126"
+                  },
+                  {
+                      "categoryName": "月嫂/育儿嫂",
+                      "categoryId": "127"
+                  },
+                  {
+                      "categoryName": "开奶催乳",
+                      "categoryId": "128"
+                  }                                               
+              ],
+              "categoryName": "孕妇护理",
+              "categoryMore": "更多",
+              "symbol": ">",
+              "categoryId": "16"
+            }               
+        ],
+        "hot":["亲子摄影","早教中心"],
+        "categoryName": "亲子",
+        "categoryId": "7"
+      },
+      {
+        "categoryChild": [
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "展馆展览",
+                      "categoryId": "129"
+                  },
+                  {
+                      "categoryName": "采摘/农家乐",
+                      "categoryId": "130"
+                  },
+                  {
+                      "categoryName": "温泉",
+                      "categoryId": "132"
+                  },
+                  {
+                      "categoryName": "动植物园",
+                      "categoryId": "133"
+                  },
+                  {
+                      "categoryName": "水上娱乐",
+                      "categoryId": "134"
+                  },
+                  {
+                      "categoryName": "滑雪",
+                      "categoryId": "135"
+                  },
+                  {
+                      "categoryName": "景点",
+                      "categoryId": "136"
+                  },
+                  {
+                      "categoryName": "旅游其他",
+                      "categoryId": "137"
+                  }                                                   
+              ],
+              "categoryName": "周边玩乐",
+              "categoryId": "17"
+            } 
+        ],
+        "hot":["景点","水上娱乐"],
+        "categoryName": "周边游",
+        "categoryId": "8"
+      },
+      {
+        "categoryChild": [
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "健身中心",
+                      "categoryId": "138"
+                  },
+                  {
+                      "categoryName": "武术场馆",
+                      "categoryId": "139"
+                  },
+                  {
+                      "categoryName": "游泳馆",
+                      "categoryId": "140"
+                  }                                                                
+              ],
+              "categoryName": "专业健身",
+              "categoryId": "18"
+            },
+            {
+              "categoryChild": [               
+                  {
+                      "categoryName": "羽毛球馆",
+                      "categoryId": "141"
+                  },
+                  {
+                      "categoryName": "溜冰场",
+                      "categoryId": "142"
+                  },
+                  {
+                      "categoryName": "射箭馆",
+                      "categoryId": "143"
+                  },
+                  {
+                      "categoryName": "篮球场",
+                      "categoryId": "144"
+                  },
+                  {
+                      "categoryName": "桌球馆",
+                      "categoryId": "145"
+                  },
+                  {
+                      "categoryName": "网球馆",
+                      "categoryId": "146"
+                  },
+                  {
+                      "categoryName": "攀岩馆",
+                      "categoryId": "147"
+                  },
+                  {
+                      "categoryName": "乒乓球馆",
+                      "categoryId": "148"
+                  },
+                  {
+                      "categoryName": "足球馆",
+                      "categoryId": "149"
+                  },
+                  {
+                      "categoryName": "高尔夫场",
+                      "categoryId": "150"
+                  },
+                  {
+                      "categoryName": "保龄球馆",
+                      "categoryId": "151"
+                  },
+                  {
+                      "categoryName": "体育场馆",
+                      "categoryId": "152"
+                  },
+                  {
+                      "categoryName": "壁球馆",
+                      "categoryId": "153"
+                  },
+                  {
+                      "categoryName": "更多运动",
+                      "categoryId": "154"
+                  }                                                        
+              ],
+              "categoryName": "休闲运动",
+              "categoryId": "19"
+            }  
+        ],
+        "hot":["健身中心"],
+        "categoryName": "运动健身",
+        "categoryId": "9"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "综合商场",
+                        "categoryId": "155"
+                    },
+                    {
+                        "categoryName": "服饰鞋包",
+                        "categoryId": "156"
+                    },
+                    {
+                        "categoryName": "运动户外",
+                        "categoryId": "157"
+                    },
+                    {
+                        "categoryName": "珠宝首饰",
+                        "categoryId": "158"
+                    }                                 
+                ],
+                "categoryName": "购物",
+                "categoryMore": "更多",
+                "symbol": ">",
+                "categoryId": "20"
+            }           
+        ],
+        "hot":["综合商场","服饰鞋包"],
+        "categoryName": "购物",
+        "categoryId": "10"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "装修公司",
+                        "categoryId": "159"
+                    },
+                    {
+                        "categoryName": "装修资讯",
+                        "categoryId": "160"
+                    }                                     
+                ],
+                "categoryName": "装修设计",
+                "categoryMore": "更多",
+                "symbol": ">",
+                "categoryId": "21"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "全屋定制",
+                      "categoryId": "161"
+                  },
+                  {
+                      "categoryName": "家具定制",
+                      "categoryId": "162"
+                  },
+                  {
+                      "categoryName": "厨柜",
+                      "categoryId": "163"
+                  }                                
+              ],
+              "categoryName": "定制家居",
+              "categoryMore": "更多",
+              "symbol": ">",
+              "categoryId": "22"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "地板",
+                      "categoryId": "164"
+                  },
+                  {
+                      "categoryName": "瓷砖石材",
+                      "categoryId": "165"
+                  },
+                  {
+                      "categoryName": "厨卫洁具",
+                      "categoryId": "166"
+                  },
+                  {
+                      "categoryName": "灯饰照明",
+                      "categoryId": "167"
+                  },
+                  {
+                      "categoryName": "油漆涂料",
+                      "categoryId": "168"
+                  },
+                  {
+                      "categoryName": "集成吊顶",
+                      "categoryId": "169"
+                  }                                   
+              ],
+              "categoryName": "装修建材",
+              "categoryMore": "更多",
+              "symbol": ">",
+              "categoryId": "23"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "成品家具",
+                      "categoryId": "170"
+                  },
+                  {
+                      "categoryName": "床品家访",
+                      "categoryId": "171"
+                  },
+                  {
+                      "categoryName": "窗帘",
+                      "categoryId": "172"
+                  },
+                  {
+                      "categoryName": "家饰餐厨",
+                      "categoryId": "173"
+                  },
+                  {
+                     "categoryName": "智能家居",
+                      "categoryId": "174"
+                  },
+                  {
+                      "categoryName": "家用电器",
+                      "categoryId": "175"
+                  }                                  
+              ],
+              "categoryName": "家具家居",
+              "categoryMore": "更多",
+              "symbol": ">",
+              "categoryId": "24"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "建材卖场",
+                      "categoryId": "176"
+                  },
+                  {
+                      "categoryName": "家居卖场",
+                      "categoryId": "177"
+                  },
+                  {
+                      "categoryName": "灯饰卖场",
+                      "categoryId": "178"
+                  }                               
+              ],
+              "categoryName": "家装卖场",
+              "categoryMore": "更多",
+              "symbol": ">",
+              "categoryId": "25"
+            }           
+        ],
+        "hot":["装修设计","定制家居"],
+        "categoryName": "家装",
+        "categoryId": "11"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "英语",
+                        "categoryId": "179"
+                    },
+                    {
+                        "categoryName": "日语",
+                        "categoryId": "180"
+                    },
+                      {
+                        "categoryName": "韩语",
+                        "categoryId": "181"
+                    },
+                    {
+                        "categoryName": "法语",
+                        "categoryId": "182"
+                    },
+                    {
+                        "categoryName": "德语",
+                        "categoryId": "183"
+                    },
+                    {
+                        "categoryName": "留学",
+                        "categoryId": "184"
+                    }                                      
+                ],
+                "categoryName": "外语留学",
+                "categoryId": "26"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "美术",
+                      "categoryId": "185"
+                  },
+                  {
+                      "categoryName": "音乐",
+                      "categoryId": "186"
+                  },
+                    {
+                      "categoryName": "书法",
+                      "categoryId": "187"
+                  },
+                  {
+                      "categoryName": "舞蹈",
+                      "categoryId": "188"
+                  },
+                  {
+                      "categoryName": "主持表演",
+                      "categoryId": "189"
+                  },
+                  {
+                      "categoryName": "国学",
+                      "categoryId": "190"
+                  }                                      
+              ],
+              "categoryName": "艺术兴趣",
+              "categoryId": "27"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "驾校",
+                      "categoryId": "191"
+                  },
+                  {
+                      "categoryName": "IT",
+                      "categoryId": "192"
+                  },
+                  {
+                      "categoryName": "会计",
+                      "categoryId": "193"
+                  },
+                  {
+                      "categoryName": "厨师",
+                      "categoryId": "194"
+                  },
+                  {
+                      "categoryName": "学历提升",
+                      "categoryId": "195"
+                  },
+                  {
+                      "categoryName": "自习室",
+                      "categoryId": "196"
+                  }                                      
+              ],
+              "categoryName": "职场技能",
+              "categoryId": "28"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "学科辅导",
+                      "categoryId": "197"
+                  },
+                  {
+                      "categoryName": "STEM",
+                      "categoryId": "198"
+                  }                                                 
+              ],
+              "categoryName": "升学辅导",
+              "categoryId": "29"
+            }        
+        ],
+        "hot":["外语","音乐"],
+        "categoryName": "学习培训",
+        "categoryId": "12"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "快照冲印",
+                        "categoryId": "199"
+                    },
+                    {
+                        "categoryName": "文印图文",
+                        "categoryId": "200"
+                    },
+                      {
+                        "categoryName": "搬家运输",
+                        "categoryId": "201"
+                    },
+                    {
+                        "categoryName": "生活配送",
+                        "categoryId": "202"
+                    },
+                    {
+                        "categoryName": "家政服务",
+                        "categoryId": "203"
+                    },
+                    {
+                        "categoryName": "洗涤护理",
+                        "categoryId": "204"
+                    },
+                    {
+                        "categoryName": "生活缴费",
+                        "categoryId": "205"
+                    },
+                    {
+                        "categoryName": "社区服务",
+                        "categoryId": "206"
+                    },
+                    {
+                        "categoryName": "成人用品",
+                        "categoryId": "207"
+                    }                                          
+                ],
+                "categoryName": "生活服务",
+                "categoryId": "30"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "家电数码维修",
+                      "categoryId": "208"
+                  },
+                  {
+                      "categoryName": "居家维修",
+                      "categoryId": "209"
+                  },
+                  {
+                      "categoryName": "回收",
+                      "categoryId": "210"
+                  }                                              
+              ],
+              "categoryName": "维修回收",
+              "categoryId": "31"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "通信营业厅",
+                      "categoryId": "211"
+                  },
+                  {
+                      "categoryName": "售票点",
+                      "categoryId": "212"
+                  },
+                  {
+                      "categoryName": "银行",
+                      "categoryId": "213"
+                  },
+                  {
+                      "categoryName": "交通",
+                      "categoryId": "214"
+                  },
+                  {
+                      "categoryName": "房屋地产",
+                      "categoryId": "215"
+                  },
+                  {
+                      "categoryName": "政府机构",
+                      "categoryId": "216"
+                  },
+                  {
+                      "categoryName": "丧葬",
+                      "categoryId": "217"
+                  }                                       
+              ],
+              "categoryName": "周边设施",
+              "categoryId": "32"
+            },
+            {
+              "categoryChild": [
+                  {
+                      "categoryName": "律师服务",
+                      "categoryId": "218"
+                  },
+                  {
+                      "categoryName": "财务服务",
+                      "categoryId": "219"
+                  },
+                  {
+                      "categoryName": "金融",
+                      "categoryId": "220"
+                  },
+                  {
+                      "categoryName": "文化传媒",
+                      "categoryId": "221"
+                  }                                                  
+              ],
+              "categoryName": "商业服务",
+              "categoryId": "33"
+            }        
+        ],
+        "hot":["快照","家政"],
+        "categoryName": "生活服务",
+        "categoryId": "13"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "口腔齿科",
+                        "categoryId": "222"
+                    },
+                    {
+                        "categoryName": "体检中心",
+                        "categoryId": "223"
+                    },
+                      {
+                        "categoryName": "医院",
+                        "categoryId": "224"
+                    },
+                    {
+                        "categoryName": "药店",
+                        "categoryId": "225"
+                    },
+                    {
+                        "categoryName": "中医",
+                        "categoryId": "226"
+                    },
+                    {
+                        "categoryName": "宠物医院",
+                        "categoryId": "227"
+                    },
+                    {
+                        "categoryName": "整形",
+                        "categoryId": "228"
+                    },
+                    {
+                        "categoryName": "妇幼医院",
+                        "categoryId": "229"
+                    },
+                    {
+                        "categoryName": "其他医疗",
+                        "categoryId": "230"
+                    }                                          
+                ],
+                "categoryName": "医疗健康",
+                "categoryId": "34"
+            }     
+        ],
+        "hot":["齿科","体检中心"],
+        "categoryName": "医疗健康",
+        "categoryId": "14"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "美容洗车",
+                        "categoryId": "231"
+                    },
+                    {
+                        "categoryName": "维修保养",
+                        "categoryId": "232"
+                    },
+                      {
+                        "categoryName": "摩托车",
+                        "categoryId": "233"
+                    },
+                    {
+                        "categoryName": "加油站",
+                        "categoryId": "234"
+                    },
+                    {
+                        "categoryName": "停车场",
+                        "categoryId": "235"
+                    },
+                    {
+                        "categoryName": "汽车租赁",
+                        "categoryId": "236"
+                    },
+                    {
+                        "categoryName": "4S店/汽车销售",
+                        "categoryId": "237"
+                    },
+                    {
+                        "categoryName": "配件/车饰",
+                        "categoryId": "238"
+                    },
+                    {
+                        "categoryName": "交警队",
+                        "categoryId": "239"
+                    },
+                    {
+                        "categoryName": "汽车保修",
+                        "categoryId": "240"
+                    },
+                    {
+                        "categoryName": "年检站",
+                        "categoryId": "241"
+                    }                                            
+                ],
+                "categoryName": "爱车",
+                "categoryMore": "更多",
+                "symbol": ">",
+                "categoryId": "35"
+            }     
+        ],
+        "hot":["美容洗车","维修保养"],
+        "categoryName": "爱车",
+        "categoryId": "15"
+      },
+      {
+        "categoryChild": [
+            {
+                "categoryChild": [
+                    {
+                        "categoryName": "宠物店",
+                        "categoryId": "242"
+                    },
+                    {
+                        "categoryName": "宠物医院",
+                        "categoryId": "243"
+                    }                              
+                ],
+                "categoryName": "宠物",
+                "categoryMore": "更多",
+                "symbol": ">",
+                "categoryId": "36"
+            }     
+        ],
+        "hot":["宠物店","宠物医院"],
+        "categoryName": "宠物",
+        "categoryId": "16"
+      }             
+  ]
+
+}

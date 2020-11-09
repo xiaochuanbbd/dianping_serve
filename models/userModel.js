@@ -16,11 +16,12 @@ const userSchema = new Schema({
 	pwd:{
 		type:String,
 		required:true
-	},
-	nick_name:{
-		type:String,
-		required:true
 	}
+	// ,
+	// nick_name:{
+	// 	type:String,
+	// 	required:true
+	// }
 })
 
 //3.告诉保安你制定的规则-------创建模型对象

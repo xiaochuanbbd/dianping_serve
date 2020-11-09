@@ -13,7 +13,49 @@
   "phone": "010-6479655478 18229930279",
   "branch": "5",
   "picUlrl":"https://img.meituan.net/msmerchant/90ed2ebe7ba28080340ca9c3c005a1653418639.jpg%40280w_212h_1e_1c_1l%7Cwatermark%3D0",
-  
+  "likeDishes":[
+    {
+      "name":"金牌花胶鸡煲",
+      "isSelected":false
+    },
+    {
+      "name":"椰奶兔子",
+      "isSelected":false
+    },
+    {
+      "name":"油炸响铃",
+      "isSelected":false
+    },
+    {
+      "name":"招牌黄金泡饭",
+      "isSelected":false
+    },
+    {
+      "name":"海鲜拼盘",
+      "isSelected":false
+    },
+    {
+      "name":"芝士龙虾饺",
+      "isSelected":false
+    },
+    {
+      "name":"西洋菜",
+      "isSelected":false
+    },
+    {
+      "name":"安斯格肥牛",
+      "isSelected":false
+    },
+    {
+      "name":"雪龙雪花牛肉粒",
+      "isSelected":false
+    },
+    {
+      "name":"安斯格肥牛",
+      "isSelected":false
+    }
+
+  ],
   "finalShopTabs": [
     "推荐菜",
     "环境",
